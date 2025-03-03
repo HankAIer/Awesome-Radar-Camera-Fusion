@@ -26,7 +26,7 @@
 * 2023 - Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10225711)] [[Website](https://radar-camera-fusion.github.io)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)]
 * 2021 - Deep Multi-Modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9000872)] [[Website](https://boschresearch.github.io/multimodalperception/)]
 * 2023 - Vision-RADAR fusion for Robotics BEV Detections: A Survey __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10186647)]
-* 2023 - Radar Perception in Autonomous Driving: Exploring Different Data Representations __`arXiv`__ [[Paper](https://arxiv.org/abs/2312.04861)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
+* 2023 - Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review __`arXiv`__ [[Paper](https://arxiv.org/abs/2312.04861)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
 * 2024 - Radar and Camera Fusion for Object Detection and
 Tracking: A Comprehensive Survey __`arXiv`__ [[Paper](https://arxiv.org/abs/2410.19872)]
   
@@ -109,6 +109,7 @@ Tracking: A Comprehensive Survey __`arXiv`__ [[Paper](https://arxiv.org/abs/2410
 * 2024 - **RCBEVDet**: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection [__`nuScenes`__] __`CVPR`__ [[Paper](https://arxiv.org/abs/2403.16440)] [[Code](https://github.com/VDIGPKU/RCBEVDet)]
 * 2024 - **CRKD**: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation [__`nuScenes`__] __`CVPR`__ [[Paper](https://arxiv.org/abs/2403.19104)]
 * 2024 - **RCBEVDet++**: Toward High-accuracy Radar-Camera Fusion 3D Perception Network [__`nuScenes`__] __`arXiv`__ [[Paper](https://arxiv.org/abs/2409.04979)] [[Code](https://github.com/VDIGPKU/RCBEVDet)]
+* 2024 - **CRT-Fusion**: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection [__`nuScenes`__] 'NeurIPS' [[Paper](https://arxiv.org/abs/2411.03013)] [[Code](https://github.com/mjseong0414/CRT-Fusion)]
 
 
 ### Tracking

@@ -140,6 +140,7 @@
 * 2021 - **PolarNet**: Accelerated Deep Open Space Segmentation using Automotive Radar in Polar Domain  __`RAD`__ __`VEHITS`__ [[Paper](https://arxiv.org/abs/2103.03387)]
 * 2021 - Multi-view Radar Semantic Segmentation __`RAD`__ __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ouaknine_Multi-View_Radar_Semantic_Segmentation_ICCV_2021_paper.html)] [[GitHub](https://github.com/valeoai/MVRSS)]
 * 2024 - **TransRadar**: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation __`RAD`__ __`WACV`__ [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Dalbah_TransRadar_Adaptive-Directional_Transformer_for_Real-Time_Multi-View_Radar_Semantic_Segmentation_WACV_2024_paper.html)] [[GitHub](https://github.com/YahiDar/TransRadar)]
+* 
 
 #### Tracking
 * 2022 - Exploiting Temporal Relations on Radar Perception for Autonomous Driving  __`CVPR`__ [[Paper](https://arxiv.org/abs/2204.01184)]
@@ -187,6 +188,7 @@
 * 2020 - **RSS-Net**: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW Radar __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9304674)]
 * 2022 - Panoptic Segmentation for Automotive Radar Point Cloud __`RadarConf`__ [[Paper](https://ieeexplore.ieee.org/document/9764218)]
 * 2023 - Deep Instance Segmentation With Automotive Radar Detection Points __`TIV`__ [__`RadarScenes`__] [[Paper](https://ieeexplore.ieee.org/abstract/document/9762032)]
+* 2025 - **LiCROcc**: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera __`RAL`__ [[Paper](https://arxiv.org/abs/2407.16197)] [[Code](https://github.com/HR-zju/LiCROcc)]
 
 <!-- Point cloud segmentation with a high-resolution automotive radar __``__ [[Paper](https://ieeexplore.ieee.org/document/8727840)] -->
 <!-- Kernel point convolution LSTM networks for radar point cloud segmentation __`Applied Science`__ -->
