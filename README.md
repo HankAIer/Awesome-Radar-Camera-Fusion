@@ -106,10 +106,14 @@ Tracking: A Comprehensive Survey __`arXiv`__ [[Paper](https://arxiv.org/abs/2410
 * 2023 - **SparseFusion3D**: Sparse Sensor Fusion for 3D object detection by Radar and Camera in Environmental Perception [__`nuScenes`__]  __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10314799)]
 * 2023 - **CRN**: Camera Radar Net for Accurate, Robust, Efficient 3D Perception [__`nuScenes`__] __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_CRN_Camera_Radar_Net_for_Accurate_Robust_Efficient_3D_Perception_ICCV_2023_paper.html)] [[Code](https://github.com/youngskkim/CRN)]
 * 2023 - **RADIANT**: Radar-Image Association Network for 3D Object Detection [__`nuScenes`__] __`AAAI`__ [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25270)] [[Code](https://github.com/longyunf/radiant)]
+* 2024 - CARB-Net: Camera-Assisted Radar-Based Network for Vulnerable Road User Detection [__`RadVRU`__] __`ECCV`__ [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08101.pdf)] [[Code](https://github.com/weiyulee/RadVRU)]
+* 2024 - A Robust Diffusion Modeling Framework for Radar Camera 3D Object
+Detection [__`nuScenes`__] __`WACV`__ [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wu_A_Robust_Diffusion_Modeling_Framework_for_Radar_Camera_3D_Object_WACV_2024_paper.pdf)]
 * 2024 - **RCBEVDet**: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection [__`nuScenes`__] __`CVPR`__ [[Paper](https://arxiv.org/abs/2403.16440)] [[Code](https://github.com/VDIGPKU/RCBEVDet)]
-* 2024 - **CRKD**: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation [__`nuScenes`__] __`CVPR`__ [[Paper](https://arxiv.org/abs/2403.19104)]
+* 2024 - **CRKD**: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation [__`nuScenes`__] __`CVPR`__ [[Paper](https://arxiv.org/abs/2403.19104)] [[Code](https://github.com/Song-Jingyu/CRKD)]
 * 2024 - **RCBEVDet++**: Toward High-accuracy Radar-Camera Fusion 3D Perception Network [__`nuScenes`__] __`arXiv`__ [[Paper](https://arxiv.org/abs/2409.04979)] [[Code](https://github.com/VDIGPKU/RCBEVDet)]
 * 2024 - **CRT-Fusion**: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection [__`nuScenes`__] 'NeurIPS' [[Paper](https://arxiv.org/abs/2411.03013)] [[Code](https://github.com/mjseong0414/CRT-Fusion)]
+* 2025 - **RobuRCDet**: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection [__`nuScenes`__] 'ICLR' [[Paper](https://arxiv.org/abs/2502.13071)] [[Code](https://github.com/Jingtong0527/RobuRCDet)]
 
 
 ### Tracking
