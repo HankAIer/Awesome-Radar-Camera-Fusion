@@ -129,7 +129,7 @@
 * 2022 - **DAROD**: A Deep Automotive Radar Object Detector on Range-Doppler maps __`RD`__ __`IV`__ [__`CARRADA`__ __`RADDet`__] [[Paper](https://ieeexplore.ieee.org/document/9827281)]
 * 2022 - A recurrent CNN for online object detection on raw radar frames [__`CARRADA`__ __`CRUW`__] [[Paper](https://arxiv.org/abs/2212.11172)]
 * 2022 - Radatron: Accurate Detection Using Multi-resolution Cascaded MIMO Radar __`ECCV`__ [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_10)]
-* 2022 - **K-Radar**: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions __`RADE`__ __`NeurIPS`__ [__`K-Radar`__][[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
+* 2022 - **K-Radar**: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions __`RADE`__ __`NeurIPS`__ [__`K-Radar`__] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
 * 2023 - **Enhanced K-Radar**: Optimal Density Reduction to Improve Detection Performance and Accessibility of 4D Radar Tensor-based Object Detection __`RADE`__ __`arXiv`__ [__`K-Radar`__][[Paper](https://arxiv.org/abs/2303.06342)]
 * 2023 - **YOLO-ORE**: A Deep Learning-Aided Object Recognition Approach for Radar Systems __`TVT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9999316)]
 
