@@ -133,6 +133,7 @@ Moving Object Based on Radar and Camera Data Fusion __`IEEE Sensors`__ [[Paper](
 
 ### Depth Estimation 
 * 2023 - Depth Estimation From Camera Image and mmWave Radar Point Cloud [__`nuScenes`__] __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Singh_Depth_Estimation_From_Camera_Image_and_mmWave_Radar_Point_Cloud_CVPR_2023_paper.html)] [[Code](https://github.com/nesl/radar-camera-fusion-depth)]
+* 2024 - Sparse Beats Dense: Rethinking Supervision in Radar-Camera Depth Completion [__`nuScenes`__] __`ECCV`__ [[Paper](https://arxiv.org/pdf/2312.00844)] [[Code](https://github.com/megvii-research/Sparse-Beats-Dense)]
 
 ### Odometry
 * 2023 - **4DRVO-Net**: Deep 4D Radar–Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion [__`VoD`__] __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10313030)]

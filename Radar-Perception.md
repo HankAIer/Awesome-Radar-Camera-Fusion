@@ -175,6 +175,10 @@
 * 2024 - **RadarPillars**: Efficient Object Detection from 4D Radar Point Clouds __`ITSC`__ [__`VoD`__] [[Paper](https://arxiv.org/abs/2408.05020)]
 * 2024 - **L4DR**: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection __`arXiv`__ [__`VoD`__, __`K-Radar`__] [[Paper](https://arxiv.org/abs/2408.03677)]
 * 2024 - Feature-enhanced PointPillars for 3D Millimeter-wave Object Detection __`TAES`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10742475/)]
+* 2024 - LEROjD: Lidar Extended Radar-Only Object Detection __`ECCV`__ [[Paper](https://arxiv.org/abs/2409.05564)][[Code](https://github.com/rst-tu-dortmund/lerojd)][`3090`]
+
+* 2025 - V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection __`CVPR`__ [[Paper](https://arxiv.org/abs/2411.08402)][[Code]([http](https://github.com/ylwhxht/V2X-R))]
+
 
 #### Segmentation
 * 2018 - Semantic Segmentation on Radar Point Clouds __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/document/8455344)]
