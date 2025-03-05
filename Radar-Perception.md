@@ -140,14 +140,14 @@
 * 2021 - **PolarNet**: Accelerated Deep Open Space Segmentation using Automotive Radar in Polar Domain  __`RAD`__ __`VEHITS`__ [[Paper](https://arxiv.org/abs/2103.03387)]
 * 2021 - Multi-view Radar Semantic Segmentation __`RAD`__ __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ouaknine_Multi-View_Radar_Semantic_Segmentation_ICCV_2021_paper.html)] [[GitHub](https://github.com/valeoai/MVRSS)]
 * 2024 - **TransRadar**: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation __`RAD`__ __`WACV`__ [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Dalbah_TransRadar_Adaptive-Directional_Transformer_for_Real-Time_Multi-View_Radar_Semantic_Segmentation_WACV_2024_paper.html)] [[GitHub](https://github.com/YahiDar/TransRadar)]
-* 
+
 
 #### Tracking
 * 2022 - Exploiting Temporal Relations on Radar Perception for Autonomous Driving  __`CVPR`__ [[Paper](https://arxiv.org/abs/2204.01184)]
 
 #### Multi-Task
-* 2022 - [**FFT-RadNet**] Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [__`RADIal`__] [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.html)]
-* 2023 - Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data  __`RD`__ __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10008067)]
+* 2022 - **RADIAl**: Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [__`RADIal`__] [[Paper](https://arxiv.org/abs/2112.10646)] [[Code](https://github.com/valeoai/RADIal)]
+* 2023 - Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data __`TIV`__ [__`RADIal`__] [[Paper](https://ieeexplore.ieee.org/abstract/document/10008067)]
 
 ---
 ### Point Cloud
@@ -166,7 +166,9 @@
 * 2020 - Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Scheiner_Seeing_Around_Street_Corners_Non-Line-of-Sight_Detection_and_Tracking_In-the-Wild_Using_CVPR_2020_paper.html)]
 * 2021 - **RPFA-Net**: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9564754)] [[Code](https://github.com/adept-thu/RPFA-Net)]
 * 2021 - Comparison of Different Approaches for Identification of Radar Ghost Detections in Automotive Scenarios __`RadarConf`__ [[Paper](https://ieeexplore.ieee.org/document/9454980)]
+* 2022 - Pointillism: Accurate 3D bounding box estimation with multi-radars __`arxiv`__ [[Paper](https://www.arxiv.org/abs/2203.04440)] [[Code](https://github.com/Kshitizbansal/pointillism-multi-radar-data)]
 * 2022 - Contrastive Learning for Automotive mmWave Radar Detection Points Based Instance Segmentation __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/document/9922540)]
+* 2022 - **Simple-BEV**: What Really Matters for Multi-Sensor BEV Perception? __`arxvi`__ [[Paper](https://arxiv.org/abs/2206.07959)] [[Code](https://github.com/aharley/simple_bev)]
 * 2023 - 3-D Object Detection for Multiframe 4-D Automotive Millimeter-Wave Radar Point Cloud __`IEEE Sensors`__ [__`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/9944629)]
 * 2023 - **SMURF**: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar __`TIV`__ [__`VoD`__ __`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10274127)]
 * 2023 - **MVFAN**: Multi-View Feature Assisted Network for 4D Radar Object Detection __`ICONIP`__ [__`Astyx`__ __`VoD`__] [[Paper](https://arxiv.org/abs/2310.16389)]
@@ -198,6 +200,7 @@
 * 2021 - Long-Range Multi-Object Tracking at Traffic Intersections on Low-Power Devices __`TITS`__ [[Paper](https://ieeexplore.ieee.org/document/9557791)]
 * 2023 - Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar? __`arXiv`__ [[Paper](https://arxiv.org/abs/2309.06036)]
 * 2024 - **RaTrack**: Moving Object Detection and Tracking with 4D Radar Point Cloud __`ICRA`__ [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.09737)] [[Code](https://github.com/ljacksonpan/ratrack)]
+* 2024 - Multi-Object Tracking based on Imaging Radar 3D Object Detection __`arXiv`__ [[Paper](https://www.arxiv.org/abs/2406.01011v1)]
 
 #### Scene Flow
 * 2022 - Self-Supervised Scene Flow Estimation With 4-D Automotive Radar __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9810356) [Code](https://github.com/Toytiny/RaFlow)]
@@ -225,7 +228,7 @@
 * 2019 - Semantic Segmentation on Automotive Radar Maps __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8813808)]
 * 2019 - Occupancy Grids Generation Using Deep Radar Network for Autonomous Driving __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8916897)]
 * 2020 - Semantic Segmentation on 3D Occupancy Grids for Automotive Radar __`IEEE ACCESS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9229096)]
-* 2023 - **NVRadarNet**: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving __`RA`__ __`ICRA`__ [[Paper](https://arxiv.org/abs/2209.14499)]
+* 2023 - **NVRadarNet**: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving  __`ICRA`__ [[Paper](https://arxiv.org/abs/2209.14499)]
 
 
 #### Segmentation
